@@ -1,4 +1,6 @@
-## Torus Knot Particle Field Made By Re Using(LWJGL / Java)
+_## Torus Knot Particle Field 
+
+##Made By CREA Using(LWJGL / Java)
 
 A small Java / LWJGL demo that renders a rotating **torus knot** made of particles, flying in a star field background, using OpenGL 3.3 core profile.
 
